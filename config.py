@@ -1,4 +1,4 @@
 from evdev import InputDevice
 
 
-key_dev = InputDevice("/dev/input/event4")
+key_dev = InputDevice("/dev/input/event3")
